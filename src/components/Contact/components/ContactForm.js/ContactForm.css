@@ -1,0 +1,19 @@
+.container-principal-form{
+    padding: 16px ;
+}
+
+.form-status {
+    display: none;
+}
+
+.form-status.active{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
